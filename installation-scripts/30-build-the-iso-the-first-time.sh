@@ -26,8 +26,8 @@ echo
 	#Let us set the desktop"
 	#First letter of desktop is small letter
 
-	desktop="hlwm"
-	dmDesktop="herbstluftwm"
+	desktop="worm"
+	dmDesktop="worm"
 
 	arcolinuxVersion='v22.03.03'
 
