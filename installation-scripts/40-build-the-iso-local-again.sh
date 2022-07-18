@@ -29,7 +29,7 @@ echo
 	desktop="worm"
 	dmDesktop="worm"
 
-	arcolinuxVersion='v22.09.02'
+	arcolinuxVersion='v22.09.03'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
